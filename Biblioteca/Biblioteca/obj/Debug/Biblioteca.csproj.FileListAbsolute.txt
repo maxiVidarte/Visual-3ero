@@ -1,0 +1,15 @@
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\mscorlib.dll
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\System.Net.Http.dll
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\System.Net.Http.xml
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\es\System.Net.Http.resources.dll
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\normidna.nlp
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\normnfc.nlp
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\normnfd.nlp
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\normnfkc.nlp
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\bin\Debug\normnfkd.nlp
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Casa\Desktop\Visual-3ero\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -49,6 +49,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmMostrar";
             this.Text = "FrmMostrar";
+            this.Load += new System.EventHandler(this.FrmMostrar_Load);
             this.ResumeLayout(false);
 
         }

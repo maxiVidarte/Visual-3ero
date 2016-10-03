@@ -32,6 +32,13 @@ namespace FormsCuentaOffShore
 
         }
 
+        private void FrmMostrar_Load(object sender, EventArgs e)
+        {
+
+            FrmPrincipal dueño = (FrmPrincipal)this.Owner;
+            dueño.miDelegado = new Del_Actualizar(this.ActualizarListados);
+        }
+
         
     }
 }

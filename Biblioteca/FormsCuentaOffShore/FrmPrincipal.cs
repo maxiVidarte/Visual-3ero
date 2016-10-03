@@ -132,6 +132,8 @@ namespace FormsCuentaOffShore
         private void altaToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.CargarLista();
+            // uso el atributo delegado, asignandole la lista offshore
+            this.miDelegado(listaCuentaOffShore);
         }
 
         private void listBoxPrincipal_SelectedIndexChanged(object sender, EventArgs e)
@@ -185,7 +187,8 @@ namespace FormsCuentaOffShore
                 }
 
             }
-          
+            // uso el atributo delegado, asignandole la lista offshore
+            this.miDelegado(listaCuentaOffShore);
 
 
 
@@ -195,7 +198,7 @@ namespace FormsCuentaOffShore
         {
             
             FrmMostrar formularioMostrar = new FrmMostrar();
-           
+            formularioMostrar.Owner = this;
             formularioMostrar.Show();
 
 
